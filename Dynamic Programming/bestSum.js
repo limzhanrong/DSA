@@ -1,0 +1,1 @@
+//Same as canSum, but returns an array of shortest sum.
